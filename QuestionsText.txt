@@ -1,0 +1,352 @@
+/-5
+/5
+/0
+/0
+:5
+;0
+.Staunchly pro-life
+:2
+;0
+.Moderately pro-life
+:0
+;0
+.Neutral
+:-2
+;0
+.Moderately pro-choice
+:-5
+;0
+.Staunchly pro-choice
+-What is your opinion on Abortion?
+
+/-3
+/3
+/0
+/0
+:3
+;0
+.Staunchly pro-Gun
+:1
+;0
+.Moderately pro-Gun
+:0
+;0
+.Neutral
+:-1
+;0
+.Moderately anti-Gun
+:-3
+;0
+.Staunchly anti-Gun
+-What is your opinion on Gun Control?
+
+/-3
+/3
+/0
+/0
+:3
+;0
+.Staunchly pro-Police
+:1
+;0
+.Moderately pro-Police
+:0
+;0
+.Neutral
+:-1
+;0
+.Moderately anti-Police
+:-3
+;0
+.Staunchly anti-Police
+-What is your opinion on Police?
+
+/-4
+/4
+/-1
+/1
+:-4
+;1
+.Staunchly pro-Immigration
+:-2
+;1
+.Moderately pro-Immigration
+:0
+;0
+.Neutral
+:2
+;0
+.Moderately anti-Immigration
+:4
+;-1
+.Staunchly anti-Immigration
+-What is your opinion on Immigration?
+
+/-4
+/4
+/0
+/0
+:4
+;0
+.Staunchly pro-Religion in Government
+:2
+;0
+.Moderately pro-Religion in Government
+:0
+;0
+.Neutral
+:-2
+;0
+.Moderately anti-Religion in Government
+:-4
+;0
+.Staunchly anti-Religion in Government
+-What is your opinion on Religion in Government?
+
+/0
+/0
+/-4
+/4
+:0
+;4
+.Very Accurate
+:0
+;2
+.Somewhat accurate
+:0
+;0
+.Neutral
+:0
+;-2
+.Somewhat inaccurate
+:0
+;-4
+.Very inaccurate
+-In your opinion, how accurate is GDP in measuring wellbeing?
+
+
+
+/-5
+/5
+/0
+/0
+:5
+;0
+.Not important at all
+:3
+;0
+.Fairly unimportant
+:0
+;0
+.Neutral
+:-2
+;0
+.Fairly important
+:-5
+;0
+.Vitally important
+-How important is dealing with Climate Change?
+
+/-3
+/3
+/-5
+/5
+:5
+;0
+.Climate Change is not real
+:2
+;3
+.Leave it to the market
+:0
+;0
+.Neutral
+:-2
+;1
+.Carbon Tax/Dividend
+:-5
+;-3
+.Green New Deal
+-What action would you most support to combat Climate Change?
+
+/0
+/0
+/-8
+/8
+:0
+;8
+.Repeal and Replace
+:0
+;0
+.Neutral
+:0
+;-2
+.Public Option
+:0
+;-8
+.Single Payer M4A (Bernie Sanders plan)
+-Which healthcare policy would you most support?
+
+/-5
+/5
+/0
+/0
+:5
+;0
+.Harder cracking down on drugs
+:0
+;0
+.Neutral
+:-3
+;0
+.Decriminalize Marijuana
+:-4
+;0
+.Legalization of Marijuana, decriminalize most hard drugs
+:-5
+;0
+.Legalization of most hard drugs
+-What is closest to your position on Drugs?
+
+/0
+/0
+/-5
+/5
+:0
+;5
+.There should not be a Federal Minimum Wage, or it should be very low
+:0
+;3
+.$7.25
+:0
+;0
+.Neutral
+:0
+;-1
+.$7.25, but adjust it each year for inflation
+:0
+;-5
+.$15
+-What should be the Federal Minimum Wage?
+
+/0
+/0
+/-4
+/4
+:0
+;4
+.Cuts to current welfare
+:0
+;0
+.Maintain Status Quo
+:0
+;0
+.Neutral
+:0
+;-2
+.Universal Basic Income
+:0
+;-4
+.Federal Jobs Guarantee
+-Which policy do you support most in terms of welfare?
+
+/0
+/0
+/-4
+/4
+:0
+;4
+.Staunchly pro-Trade
+:0
+;2
+.Moderately pro-Trade
+:0
+;0
+.Neutral
+:0
+;-2
+.Moderately anti-Trade
+:0
+;-4
+.Staunchly anti-Trade
+-What is your opinion on Free Trade?
+
+/-5
+/5
+/-5
+/5
+:0
+;5
+.Ronald Reagan
+:0
+;-5
+.Franklin Delano Roosevelt
+:0
+;0
+.George Washington
+:-5
+;0
+.Abraham Lincoln
+:5
+;0
+.Andrew Jackson
+-Which is your favorite former President?
+
+/-3
+/3
+/-3
+/3
+:0
+;3
+.China
+:-3
+;0
+.Russia
+:0
+;0
+.Neutral
+:3
+;0
+.Iran
+:0
+;-3
+.United States
+-In your opinion, which country is our greatest enemy?
+
+/-3
+/3
+/-3
+/3
+:3
+;-3
+.Protect Coal Mines
+:-3
+;-3
+.Ban Fracking
+:0
+;0
+.Neutral
+:3
+;3
+.Let the market decide
+:-2
+;2
+.Push Nuclear Energy
+-Which of these Energy policies would you support the most?
+
+/-4
+/4
+/-2
+/2
+:-4
+;-2
+.Urban
+:0
+;0
+.Neutral
+:-1
+;2
+.Suburban
+:4
+;1
+.Rural
+-Which type of geographical area would you want to live in most?
